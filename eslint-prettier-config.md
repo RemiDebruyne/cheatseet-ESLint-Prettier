@@ -6,7 +6,6 @@
 - `npm install --save-dev prettier` : install prettier package
 - `npm install --save-dev eslint-config-prettier eslint-plugin-prettier` : disables formatting for ESLint and allows ESLint to show formatting errors
 - Create `.prettierrc.json` with the following settings :
-- 
 ```json
 {
   "semi": false,
