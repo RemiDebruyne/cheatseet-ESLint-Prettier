@@ -40,7 +40,6 @@
       "project": "./tsconfig.json"
   },
   "rules": {
-      //We can specify more rules that we need here
     "prettier/prettier": ["error"],
     "import/extensions": ["error", "ignorePackages", { "js": "never", "jsx": "never", "ts": "never", "tsx": "never" }]
   }
