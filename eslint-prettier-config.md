@@ -26,9 +26,6 @@
   "parser": "babel",
   "jsxSingleQuote": false,
   "vueIndentScriptAndStyle": false,
-  "semi": false,
-  "tabWidth": 2,
-  "singleQuote": true
 }
 ```
 
